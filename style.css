@@ -39,7 +39,6 @@ th {
 }
 
 hr {
-  border: 10px solid #555;
   border-radius: 0px;
   margin: 20px 100px 20px 100px;
 }
@@ -51,6 +50,16 @@ hr {
 
 .header p {
   padding-top: 35px;
+}
+
+.header a {
+  color: white;
+  background-color: #9900ff;
+}
+
+.header a:hover {
+  color: #9900ff;
+  background-color: white;
 }
 
 .work-icons {
@@ -84,4 +93,13 @@ hr {
   font-size: 14px;
   text-align: left;
   margin: 100px 0px 0px 0px;
+}
+.footnotes {
+  font-size: 18px;
+}
+.spacer {
+  height: 100px;
+}
+.spacer-s {
+  height: 40px;
 }
