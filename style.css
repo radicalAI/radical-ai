@@ -52,6 +52,16 @@ hr {
   padding-top: 35px;
 }
 
+.header a {
+  color: white;
+  background-color: #9900ff;
+}
+
+.header a:hover {
+  color: #9900ff;
+  background-color: white;
+}
+
 .work-icons {
   width: 150px;
 }
