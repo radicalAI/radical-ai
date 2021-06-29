@@ -8,7 +8,7 @@ We are members of the Radical AI Network, a decentralized network of
 rearranges power and dream up and build human/AI systems by-and-for the people.
 We came together because we believe our capacity expands when we find
 intellectual kin, share visions and strategies, deepen our radical AI work
-together, and organize. The network connects through a Slack space; to request
+together, and organize. The network connects through a Slack space. To request
 to join, email a little about yourself to <a
 href="mailto:the.radical.ai.network@gmail.com">the.radical.ai.network@gmail.com</a>
 
