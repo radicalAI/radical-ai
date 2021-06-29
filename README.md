@@ -29,8 +29,7 @@ The main reason to use `jekyll` is that markdown files tend to be easier to work
 Because `jekyll` is written in the `Ruby` programming language, it must be installed using the `gem` package manager, which in turn requires installing `Ruby`.
 Here are the basic steps (which may take a while...):
 1. [Install ruby](https://www.ruby-lang.org/en/documentation/installation/) on your machine using instructions specific to your operating system (e.g. `brew install ruby` for MacOS).
-2. add `Ruby` and `gem` to your system path then restart your terminal, e.g. for bash shells: `echo 'export PATH="/usr/local/opt/ruby/bin:/usr/local/lib/ruby/gems/3.0.0/bin:$PATH"' >> ~/.bash_profile` then `source ~/.bash_profile`
-then 
+2. add `Ruby` and `gem` to your system path then restart your terminal, e.g. for bash shells: `echo 'export PATH="/usr/local/opt/ruby/bin:/usr/local/lib/ruby/gems/3.0.0/bin:$PATH"' >> ~/.bash_profile` then `source ~/.bash_profile` 
 3. Confirm that the `gem` package manager is available by `which gem` or `gem -v` (revisit steps 1--3 if this fails).
 4. Use `gem` to install `jekyll` using this command:
 ```
