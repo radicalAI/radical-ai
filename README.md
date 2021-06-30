@@ -87,8 +87,16 @@ This should happen by a pull request (PR), rather than a direct `git push`.
 For starters, you might want to look at your local changes using `git status` and `git diff` from the repo root directory, and make sure everything looks ok to you.
 To proceed with the pull request, you will need to 
 1. commit these changes to a **new local branch**
+```
+git checkout -b mybranch
+git add *.md # or whatever files you edited
+git commit -m "my commit message"
+```
 2. push the contents of your local branch to a **new remote branch**
-3. use the github.com interface to start the PR merging the new remote branch contents onto the main `gh-pages` branch.
+```
+git push origin mybranch # don't directly push to the gh-pages branch!
+```
+3. use the github.com interface to start the PR merging the new remote branch contents onto the main `gh-pages` branch. Move to the branch you have just created and look for the buttom 'Compare & pull request`
 
 Once the PR is submitted, ask a repo contributor to approve and merge the PR.
 Once merged, the new content on `gh-pages` should automatically propagate (after some time) to the public website.
