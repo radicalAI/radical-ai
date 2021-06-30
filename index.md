@@ -12,7 +12,7 @@ layout: main
 <div class="spacer-s"></div>
 
 <div align="center">
-  Radical AI exposes how AI rearranges power 
+  Radical AI exposes how AI rearranges power!!!
   <br>
   and dreams up and builds human/AI systems 
   <br>
