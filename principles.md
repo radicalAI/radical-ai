@@ -4,7 +4,7 @@ layout: main
 ## Radical AI Principles
 
 1. We recognize that power is distributed unevenly, and People of Color, Black,
-Indigenous, Womxn, Queer, Trans, Gender Non-Conforming, Poor, Dis-abled, and other
+Indigenous, Women, Queer, Trans, Gender Non-Conforming, Poor, Dis-abled, and other
 communities are pushed to the margins. We commit to <i>resisting</i> these
 interlocking systems of oppression, including Racism, Coloniality, Casteism,
 Heteropatriarchy, Capitalism, and Ableism. We commit to <i>striving</i> toward
